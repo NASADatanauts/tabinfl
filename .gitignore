@@ -1,0 +1,4 @@
+*.RData
+*.history
+.DS_Store
+.ipynb_checkpoints/*
